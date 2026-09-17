@@ -1,0 +1,23 @@
+build/
+sdkconfig
+sdkconfig.old
+managed_components/
+.vscode/
+.idea/
+
+# Generated repository-local links; canonical skill sources live in skills/.
+/.agents/skills/passport-develop
+/.agents/skills/passport-setup
+/.agents/skills/passport-build
+/.agents/skills/passport-device-test
+/.agents/skills/passport-debug
+
+# Local design reference and system metadata.
+.DS_Store
+/assets/images/dinner-wireframe.png
+
+# Local credentials must never enter source control.
+.env
+.env.*
+*.pem
+*.key

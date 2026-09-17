@@ -1,0 +1,11 @@
+Built-in image_gen generation prompt (not a hardware screenshot):
+Create a polished Chinese casual food-lottery game COVER illustration. Exact output size 1152x1536 pixels, PORTRAIT aspect ratio 3:4. This is a playful illustrated cover, NOT a real device screenshot or photograph. No physical device, no phone, no hardware specifications.
+
+Title at the top in large highly legible chunky rounded Chinese typography, warm gold with dark navy outline: "今晚吃什么？"
+Below in smaller clear Chinese: "别纠结，让命运决定！"
+
+Visual design: dark midnight-navy background, warm cream and golden-yellow primary palette, small sparkles, tasteful subtle paper texture, bold flat kawaii sticker illustrations with warm personality. A central playful food lottery of rounded floating cards, with a prominent selected gold card reading "烤串", a small pill above it reading "烧烤", and illustrated skewers. Side cards with a hotpot and noodle bowl suggest foods rolling past. Under the main card a compact button-like illustration says "就它了！". Around the lottery, a smiling hamburger, a cute golden fries carton with twin arches, a tiny friendly drink cup, and an adorable cream snowman with a tiny three-point golden crown and scarf cheer the result. Inspired by the little cartoon food decorations in a dinner-choice game. Keep it modern, premium, friendly, simple and instantly readable as a fun way to choose dinner. No brand names, no sponsor claims, no additional unrelated mascots.
+
+At the bottom, a short easy-to-read line: "按一下，开饭！"
+Below it, a smaller BUT CLEARLY LEGIBLE editorial disclosure: "AI 生成 · 玩法示意"
+Keep generous safe margins. Do not add any technical text, logos for hardware, private information, QR codes, URLs, feature claims not described here, or fake screenshot frames. All Chinese text must be accurate. The result should feel like an inviting game poster and must use the exact requested 3:4 canvas.
